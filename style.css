@@ -1,0 +1,21 @@
+body{
+    height: 100vh;
+    background-image: url(782657.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-position-y: 110%;
+    overflow: hidden;
+}
+
+.top-side{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.top-right{
+    display: flex;
+    gap: 20px;
+}
